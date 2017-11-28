@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: elasticsearchdemo
+  data:
+    elasticsearch:
+      cluster-name: elasticsearch
+      cluster-nodes: 119.23.47.218:16500
